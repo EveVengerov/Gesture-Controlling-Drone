@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maha/catkin_ws/src/pluto_camera_ros_package/pluto_image_sub/cpp_python_socket/cpp/cpp_sockets/include/CppPythonSocketConfig.h
+
+/home/maha/catkin_ws/src/pluto_camera_ros_package/pluto_image_sub/cpp_python_socket/cpp/cpp_sockets/include/client.hpp
+arpa/inet.h
+-
+chrono
+-
+cstring
+-
+iostream
+-
+string
+-
+sys/socket.h
+-
+unistd.h
+-
+vector
+-
+CppPythonSocketConfig.h
+/home/maha/catkin_ws/src/pluto_camera_ros_package/pluto_image_sub/cpp_python_socket/cpp/cpp_sockets/include/CppPythonSocketConfig.h
+opencv2/opencv.hpp
+-
+
+/home/maha/catkin_ws/src/pluto_camera_ros_package/pluto_image_sub/cpp_python_socket/cpp/cpp_sockets/src/client.cpp
+client.hpp
+/home/maha/catkin_ws/src/pluto_camera_ros_package/pluto_image_sub/cpp_python_socket/cpp/cpp_sockets/src/client.hpp
+unistd.h
+-
+

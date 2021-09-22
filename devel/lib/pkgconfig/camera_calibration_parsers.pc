@@ -1,0 +1,8 @@
+prefix=/home/maha/catkin_ws/devel
+
+Name: camera_calibration_parsers
+Description: Description of camera_calibration_parsers
+Version: 1.11.13
+Cflags: -I/home/maha/catkin_ws/src/pluto_camera_ros_package/image_common/camera_calibration_parsers/include
+Libs: -L${prefix}/lib -lcamera_calibration_parsers
+Requires: sensor_msgs

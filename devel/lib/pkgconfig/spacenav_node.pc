@@ -1,0 +1,8 @@
+prefix=/home/maha/catkin_ws/devel
+
+Name: spacenav_node
+Description: Description of spacenav_node
+Version: 1.15.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs sensor_msgs

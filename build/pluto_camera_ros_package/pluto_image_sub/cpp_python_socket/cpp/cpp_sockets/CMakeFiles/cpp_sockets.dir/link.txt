@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libcpp_sockets.so -o /home/maha/catkin_ws/devel/lib/libcpp_sockets.so CMakeFiles/cpp_sockets.dir/src/client.cpp.o 

@@ -1,0 +1,8 @@
+prefix=/home/maha/catkin_ws/devel
+
+Name: plutodrone
+Description: Description of plutodrone
+Version: 1.0.0
+Cflags: -I/home/maha/catkin_ws/devel/include -I/home/maha/catkin_ws/src/pluto-ros-package/plutodrone/include
+Libs: -L${prefix}/lib -lplutodrone
+Requires: roscpp rospy std_msgs message_runtime

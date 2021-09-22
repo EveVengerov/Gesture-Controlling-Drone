@@ -1,0 +1,8 @@
+prefix=/home/maha/catkin_ws/devel
+
+Name: pluto_image_sub
+Description: Description of pluto_image_sub
+Version: 1.0.1
+Cflags: 
+Libs: -L${prefix}/lib -lpluto_image_sub
+Requires: roscpp rospy std_msgs image_transport cv_bridge

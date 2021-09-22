@@ -1,0 +1,8 @@
+prefix=/home/maha/catkin_ws/devel
+
+Name: camera_info_manager
+Description: Description of camera_info_manager
+Version: 1.11.13
+Cflags: -I/home/maha/catkin_ws/src/pluto_camera_ros_package/image_common/camera_info_manager/include -I/usr/include
+Libs: -L${prefix}/lib -lcamera_info_manager
+Requires: camera_calibration_parsers roscpp sensor_msgs

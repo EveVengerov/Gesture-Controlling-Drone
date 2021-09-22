@@ -1,0 +1,8 @@
+prefix=/home/maha/catkin_ws/install
+
+Name: pluto_camera_sense
+Description: Description of pluto_camera_sense
+Version: 1.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lpluto_camera_sense -limage_transport -lcv_bridge
+Requires: roscpp std_msgs message_runtime
