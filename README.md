@@ -30,6 +30,7 @@ $ rosrun plutodrone plutonode
 # To get the frame from camera
 $ rosrun pluto_camera_sense plutocamera
 
+
 # To start the Python Node
 $ python3 serverimage.py
 
@@ -37,3 +38,22 @@ $ python3 serverimage.py
 $ rosrun pluto_image_sub imagepronode 
 
 ```
+## Few gestures implemented for control
+<div class="row">
+  <div class="column">
+    <img align="left" src="/gestures/2021-11-23%20(10).png"  width=460 height=500 \>
+  </div>
+  <div class="column">
+    <img align="right" src="/gestures/2021-11-23%20(12).png" width=460 height=500 \>
+  </div>
+  <div class="column">
+    <img align="left" src="/gestures/2021-11-23%20(13).png"  width=460 height=500 \>
+  </div>
+  <div class="column">
+    <img align="right" src="/gestures/2021-11-23%20(9).png" width=460 height=500  \>
+  </div>
+</div>  
+
+  
+    
+     
