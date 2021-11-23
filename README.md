@@ -41,16 +41,16 @@ $ rosrun pluto_image_sub imagepronode
 ## Few gestures implemented for control
 <div class="row">
   <div class="column">
-    <img align="left" src="/gestures/2021-11-23%20(10).png"  width=460 height=500 \>
+    <img align="left" src="/gestures/2021-11-23%20(10).png"  width=360 height=400 \>
   </div>
   <div class="column">
-    <img align="right" src="/gestures/2021-11-23%20(12).png" width=460 height=500 \>
+    <img align="right" src="/gestures/2021-11-23%20(12).png" width=360 height=400 \>
   </div>
   <div class="column">
-    <img align="left" src="/gestures/2021-11-23%20(13).png"  width=460 height=500 \>
+    <img align="left" src="/gestures/2021-11-23%20(13).png"  width=360 height=400 \>
   </div>
   <div class="column">
-    <img align="right" src="/gestures/2021-11-23%20(9).png" width=460 height=500  \>
+    <img align="right" src="/gestures/2021-11-23%20(9).png" width=360 height=400  \>
   </div>
 </div>  
 
