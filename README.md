@@ -20,7 +20,11 @@ $ catkin_make
 ```
 ### Run Package 
 Open nodes in different terminals
-```
+```  
+# To start the python Gesture-Handler Node using python virtual environment
+$ source ~/venv/bin/activate  
+$ python venv/src/serverimage.py  
+
 # start roscore
 $ roscore
 
@@ -30,14 +34,19 @@ $ rosrun plutodrone plutonode
 # To get the frame from camera
 $ rosrun pluto_camera_sense plutocamera
 
-
-# To start the Python Node
-$ python3 serverimage.py
-
 # To start streaming camera feed
 $ rosrun pluto_image_sub imagepronode 
 
 ```
+----------------OR----------------  
+Use roslaunch to execute all ROS nodes at once  
+
+```
+$ cd ~/catkin_ws/src/pluto_camera_ros_package/pluto_image_sub/src/launch  
+$ roslaunch launch_gesture_control.launch
+```
+
+
 ## Few gestures implemented for control
 <div class="row">
   <div class="column">
