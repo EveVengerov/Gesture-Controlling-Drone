@@ -22,8 +22,8 @@ $ catkin_make
 Open nodes in different terminals
 ```  
 # To start the python Gesture-Handler Node using python virtual environment
-$ source ~/venv/bin/activate  
-$ python venv/src/serverimage.py  
+$ source ~/venv/PythonGestureHandler/bin/activate  
+$ python venv/PythonGestureHandler/src/serverimage.py  
 
 # start roscore
 $ roscore
