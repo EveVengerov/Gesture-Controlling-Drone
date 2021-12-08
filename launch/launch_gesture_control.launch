@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="plutodrone" type="plutonode" name="pluto_node" />
+	<node pkg="pluto_camera_sense" type="plutocamera" name="pluto_camera" />
+	<node pkg="pluto_image_sub" type="imagepronode" name="image_pronode" />
+</launch>
