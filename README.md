@@ -42,7 +42,7 @@ $ rosrun pluto_image_sub imagepronode
 Use roslaunch to execute all ROS nodes at once  
 
 ```
-$ cd ~/catkin_ws/src/launch  
+$ cd ~/catkin_ws/launch  
 $ roslaunch launch_gesture_control.launch
 ```
 
