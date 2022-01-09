@@ -1,4 +1,6 @@
 # Gesture-Control
+## Description
+This project uses hand gesture recognition program in python (PythonGestureHandler) implemented using mediapipe library and openCVpython. Used a Socket connection to communicate between the python node and Ros Image Handler. The image handler node receives the footage from the Wireless Camera Module of the PlutoX drone and also  publishes the required control signals on the drone control topic.
 ## Getting Started
 ### Pre-requisites
 Install python3 from this [tutorial](https://realpython.com/installing-python/#how-to-install-on-ubuntu-and-linux-mint) or type the following commands on terminal 
